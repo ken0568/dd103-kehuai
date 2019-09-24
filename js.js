@@ -1,1 +1,1 @@
-console("ok")
+console("os")
